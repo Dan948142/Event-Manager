@@ -1,0 +1,8 @@
+{
+  "name": "Event Manager",
+  "description": "Jain religious activities, temple visits, and sangha community coordination for Jain Samaj IIT Kharagpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
